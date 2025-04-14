@@ -1,0 +1,13 @@
+1. as soon as someone clicks on 'start quiz' btn we load up our 1st que
+
+2. as soon as someone clicks on any 4 option , 
+    a) we update user's score
+    b) we display 'next question' btn 
+
+3. as soon as someone clicks on 'next question' btn , we display the next que  
+
+4. same process for que 2 , and load up que 3
+
+5. as soon as someone clicks next question in 3rd que , we have to Display their score and Add a restart quiz btn 
+
+6. as soon as someone clicks on restart quiz btn it loads up again from the starting page 
